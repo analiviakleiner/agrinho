@@ -1,16 +1,17 @@
-/* Estilos básicos */
+/* Estilos inspirados no GitHub */
 body {
-    font-family: Arial, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f0f0f0;
+    background-color: #f6f8fa;
+    color: #24292e;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #333;
+    background-color: #24292e;
     color: #fff;
-    padding: 10px 0;
+    padding: 16px 0;
     text-align: center;
 }
 
@@ -25,27 +26,11 @@ main {
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
 }
 
 section {
     margin-bottom: 20px;
 }
 
-section h2 {
-    color: #333;
-    font-size: 1.5em;
-}
-
-section p {
-    color: #666;
-}
-
-footer {
-    text-align: center;
-    padding: 10px 0;
-    background-color: #333;
-    color: #fff;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
+section h
